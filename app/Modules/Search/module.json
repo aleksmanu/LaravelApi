@@ -1,0 +1,6 @@
+{
+    "name": "Search",
+    "slug": "search",
+    "version": "1.0",
+    "description": "This is the description for the Search module. This handles the main searchbar for the site"
+}

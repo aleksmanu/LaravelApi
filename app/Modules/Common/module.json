@@ -1,0 +1,6 @@
+{
+    "name": "Common",
+    "slug": "common",
+    "version": "1.0",
+    "description": "Assets shared between multiple modules"
+}
